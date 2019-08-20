@@ -37,7 +37,7 @@ public class Single_queue {
 
    private StringBuilder buffer = new StringBuilder();
 
-   public void simulate(){
+   private void simulate(){
         /* Specify the number of events for the
         timing function */
       num_events = 2;
